@@ -20,8 +20,8 @@ const Hero = () => {
                 An individual with a wide interest in topics of both mathematics and computer science.
               </p>
 
-              <button type="button" className="button-resume" href="https://github.com/awnonbhowmik/Awnon-CV/blob/main/Awnon_CV.pdf">Download CV</button>
-              <button className="button-resume scroll-to">Get in Touch</button>
+              <a href="https://github.com/awnonbhowmik/Awnon-CV/blob/main/Awnon_CV.pdf"><button type="button" className="button-resume">Download CV</button></a>
+              <a href="#contact"><button className="button-resume scroll-to">Get in Touch</button></a>
             </div>
           </div>
           <div className="col-md-5  order-md-1 order-0">
